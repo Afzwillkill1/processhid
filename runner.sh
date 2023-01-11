@@ -1,1 +1,1 @@
-! sudo ph add miniZ
+! ph add miniZ
